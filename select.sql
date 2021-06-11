@@ -1,1 +1,1 @@
-select * from [table];
+select [columns] from [table];
