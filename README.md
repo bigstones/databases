@@ -4,21 +4,23 @@
 
 ## 데이터베이스 종류
 
-Oracle
+### RDB
 
-MSSQL
+    Oracle
 
-MySQL/MariaDB
+    MSSQL
 
-postgres
+    MySQL/MariaDB
 
-Informix
+    postgres
 
-Sybase
+    Informix
 
-DB2
+    Sybase
 
-SQLite
+    DB2
+
+    SQLite
 
 
 ## 데이터베이스 ERD작성 도구
