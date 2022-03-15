@@ -8,7 +8,9 @@ Oracle
 
 MSSQL
 
-MySQL
+MySQL/MariaDB
+
+postgres
 
 Informix
 
@@ -16,7 +18,8 @@ Sybase
 
 DB2
 
-postgres
+SQLite
+
 
 ## 데이터베이스 ERD작성 도구
 
