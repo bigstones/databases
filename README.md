@@ -37,6 +37,16 @@ update문
 
     update [table] set [column] = [value] where [condition];
 
+delete문
+
+    delete from [table] where [condition];
+    
+drop문
+
+    drop database [database];
+    
+    drop table [table];
+    DROP DATEBASE [데이터베이스]
 
 
 [select]:https://github.com/bigstones/databases/blob/main/select.sql
