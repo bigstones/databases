@@ -22,6 +22,13 @@
 
     SQLite
 
+## 데이터베이스 관리도구
+
+    dbeaver
+    heidisql
+    toad
+    datagrip
+
 
 ## 데이터베이스 ERD작성 도구
 
